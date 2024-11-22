@@ -5,33 +5,15 @@
     "year": 1992,
     "duration": 99,
     "budget": 1.2,
-    "poster": "/data/posters/reservoir_dogs.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/d/dc/Reservoir_Dogs.png",
+    "quote": "Are you gonna bark all day, little doggy, or are you gonna bite?",
+    "description": "Quentin Tarantino's directorial debut, Reservoir Dogs, is a tense and brutal crime drama about a group of criminals who suspect each other after a heist goes wrong.",
     "actors": [
-      {
-        "id": 1,
-        "name": "Harvey Keitel",
-        "role": "Mr White"
-      },
-      {
-        "id": 2,
-        "name": "Tim Roth",
-        "role": "Mr Orange"
-      },
-      {
-        "id": 3,
-        "name": "Michael Madsen",
-        "role": "Mr Blonde"
-      },
-      {
-        "id": 4,
-        "name": "Steve Buscemi",
-        "role": "Mr Pink"
-      },
-      {
-        "id": 5,
-        "name": "Quentin Tarantino",
-        "role": "Mr Brown"
-      }
+      { "id": 1, "name": "Harvey Keitel", "role": "Mr White" },
+      { "id": 2, "name": "Tim Roth", "role": "Mr Orange" },
+      { "id": 3, "name": "Michael Madsen", "role": "Mr Blonde" },
+      { "id": 4, "name": "Steve Buscemi", "role": "Mr Pink" },
+      { "id": 5, "name": "Quentin Tarantino", "role": "Mr Brown" }
     ]
   },
   {
@@ -40,48 +22,18 @@
     "year": 1994,
     "duration": 154,
     "budget": 8.5,
-    "poster": "/data/posters/pulp_fiction.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/82/Pulp_Fiction_cover.jpg",
+    "quote": "Say 'what' again. I dare you, I double dare you!",
+    "description": "A nonlinear masterpiece, Pulp Fiction weaves interconnecting tales of crime, redemption, and chaos in Tarantino's signature style.",
     "actors": [
-      {
-        "id": 6,
-        "name": "John Travolta",
-        "role": "Vincent Vega"
-      },
-      {
-        "id": 7,
-        "name": "Samuel L. Jackson",
-        "role": "Jules Winnfield"
-      },
-      {
-        "id": 8,
-        "name": "Bruce Willis",
-        "role": "Butch Coolidge"
-      },
-      {
-        "id": 9,
-        "name": "Uma Thurman",
-        "role": "Mia Wallace"
-      },
-      {
-        "id": 10,
-        "name": "Ving Rhames",
-        "role": "Marsellus Wallace"
-      },
-      {
-        "id": 2,
-        "name": "Tim Roth",
-        "role": "Pumpkin / Ringo"
-      },
-      {
-        "id": 1,
-        "name": "Harvey Keitel",
-        "role": "Winston Wolfe"
-      },
-      {
-        "id": 5,
-        "name": "Quentin Tarantino",
-        "role": "Jimmie Dimmick"
-      }
+      { "id": 6, "name": "John Travolta", "role": "Vincent Vega" },
+      { "id": 7, "name": "Samuel L. Jackson", "role": "Jules Winnfield" },
+      { "id": 8, "name": "Bruce Willis", "role": "Butch Coolidge" },
+      { "id": 9, "name": "Uma Thurman", "role": "Mia Wallace" },
+      { "id": 10, "name": "Ving Rhames", "role": "Marsellus Wallace" },
+      { "id": 2, "name": "Tim Roth", "role": "Pumpkin / Ringo" },
+      { "id": 1, "name": "Harvey Keitel", "role": "Winston Wolfe" },
+      { "id": 5, "name": "Quentin Tarantino", "role": "Jimmie Dimmick" }
     ]
   },
   {
@@ -90,38 +42,16 @@
     "year": 1997,
     "duration": 154,
     "budget": 12,
-    "poster": "/data/posters/jackie_brown.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8a/Jackie_Brown_Poster.jpg",
+    "quote": "You can't trust Melanie, but you can always trust Melanie to be Melanie.",
+    "description": "A slick crime drama with a retro vibe, Jackie Brown showcases a cunning flight attendant's high-stakes double-cross of gangsters and the law.",
     "actors": [
-      {
-        "id": 11,
-        "name": "Pam Grier",
-        "role": "Jackie Brown"
-      },
-      {
-        "id": 7,
-        "name": "Samuel L. Jackson",
-        "role": "Ordell Robbie"
-      },
-      {
-        "id": 12,
-        "name": "Robert Forster",
-        "role": "Max Cherry"
-      },
-      {
-        "id": 13,
-        "name": "Bridget Fonda",
-        "role": "Melanie Ralston"
-      },
-      {
-        "id": 14,
-        "name": "Michael Keaton",
-        "role": "Ray Nicolette"
-      },
-      {
-        "id": 0,
-        "name": "Robert De Niro",
-        "role": "Louis Gara"
-      }
+      { "id": 11, "name": "Pam Grier", "role": "Jackie Brown" },
+      { "id": 7, "name": "Samuel L. Jackson", "role": "Ordell Robbie" },
+      { "id": 12, "name": "Robert Forster", "role": "Max Cherry" },
+      { "id": 13, "name": "Bridget Fonda", "role": "Melanie Ralston" },
+      { "id": 14, "name": "Michael Keaton", "role": "Ray Nicolette" },
+      { "id": 0, "name": "Robert De Niro", "role": "Louis Gara" }
     ]
   },
   {
@@ -130,43 +60,17 @@
     "year": 2003,
     "duration": 247,
     "budget": 55,
-    "poster": "/data/posters/kill_bill.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/cf/Kill_Bill_Volume_1.png",
+    "quote": "Revenge is a dish best served cold.",
+    "description": "A blood-soaked tale of vengeance, Kill Bill follows The Bride on her relentless quest to punish those who wronged her.",
     "actors": [
-      {
-        "id": 9,
-        "name": "Uma Thurman",
-        "role": "The Bride"
-      },
-      {
-        "id": 15,
-        "name": "David Carradine",
-        "role": "Bill"
-      },
-      {
-        "id": 3,
-        "name": "Michael Madsen",
-        "role": "Budd"
-      },
-      {
-        "id": 16,
-        "name": "Lucy Liu",
-        "role": "O-Ren Ishii"
-      },
-      {
-        "id": 17,
-        "name": "Vivica a. Fox",
-        "role": "Vernita Green"
-      },
-      {
-        "id": 18,
-        "name": "Daryl Hannah",
-        "role": "Elle Driver"
-      },
-      {
-        "id": 7,
-        "name": "Samuel L. Jackson",
-        "role": "Rufus"
-      }
+      { "id": 9, "name": "Uma Thurman", "role": "The Bride" },
+      { "id": 15, "name": "David Carradine", "role": "Bill" },
+      { "id": 3, "name": "Michael Madsen", "role": "Budd" },
+      { "id": 16, "name": "Lucy Liu", "role": "O-Ren Ishii" },
+      { "id": 17, "name": "Vivica a. Fox", "role": "Vernita Green" },
+      { "id": 18, "name": "Daryl Hannah", "role": "Elle Driver" },
+      { "id": 7, "name": "Samuel L. Jackson", "role": "Rufus" }
     ]
   },
   {
@@ -175,38 +79,16 @@
     "year": 2009,
     "duration": 153,
     "budget": 70,
-    "poster": "/data/posters/inglourious_basterds.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/c/c3/Inglourious_Basterds_poster.jpg",
+    "quote": "Each and every man under my command owes me 100 Nazi scalps!",
+    "description": "A thrilling alternate history, Inglourious Basterds delivers a bold and bloody tale of revenge against the Nazi regime.",
     "actors": [
-      {
-        "id": 19,
-        "name": "Brad Pitt",
-        "role": "Lt. Aldo Raine"
-      },
-      {
-        "id": 20,
-        "name": "Mélanie Laurent",
-        "role": "Shosanna"
-      },
-      {
-        "id": 21,
-        "name": "Christoph Waltz",
-        "role": "Col. Hans Landa"
-      },
-      {
-        "id": 22,
-        "name": "Eli Roth",
-        "role": "Sgt. Donny Donowitz"
-      },
-      {
-        "id": 23,
-        "name": "Michael Fassbender",
-        "role": "Lt. Archie Hicox"
-      },
-      {
-        "id": 24,
-        "name": "Diane Kruger",
-        "role": "Bridget von Hammersmark"
-      }
+      { "id": 19, "name": "Brad Pitt", "role": "Lt. Aldo Raine" },
+      { "id": 20, "name": "Mélanie Laurent", "role": "Shosanna" },
+      { "id": 21, "name": "Christoph Waltz", "role": "Col. Hans Landa" },
+      { "id": 22, "name": "Eli Roth", "role": "Sgt. Donny Donowitz" },
+      { "id": 23, "name": "Michael Fassbender", "role": "Lt. Archie Hicox" },
+      { "id": 24, "name": "Diane Kruger", "role": "Bridget von Hammersmark" }
     ]
   },
   {
@@ -215,33 +97,15 @@
     "year": 2012,
     "duration": 165,
     "budget": 100,
-    "poster": "/data/posters/django_unchained.jpg",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/8/8b/Django_Unchained_Poster.jpg",
+    "quote": "I like the way you die, boy.",
+    "description": "A bold and unflinching tale of vengeance and justice, Django Unchained tells the story of a freed slave on a mission to rescue his wife.",
     "actors": [
-      {
-        "id": 25,
-        "name": "Jamie Foxx",
-        "role": "Django"
-      },
-      {
-        "id": 21,
-        "name": "Christoph Waltz",
-        "role": "Dr. King Schultz"
-      },
-      {
-        "id": 26,
-        "name": "Leonardo DiCaprio",
-        "role": "Calvin Candie"
-      },
-      {
-        "id": 27,
-        "name": "Kerry Washington",
-        "role": "Broomhilda von Schaft"
-      },
-      {
-        "id": 7,
-        "name": "Samuel L. Jackson",
-        "role": "Stephen"
-      }
+      { "id": 25, "name": "Jamie Foxx", "role": "Django" },
+      { "id": 21, "name": "Christoph Waltz", "role": "Dr. King Schultz" },
+      { "id": 26, "name": "Leonardo DiCaprio", "role": "Calvin Candie" },
+      { "id": 27, "name": "Kerry Washington", "role": "Broomhilda von Schaft" },
+      { "id": 7, "name": "Samuel L. Jackson", "role": "Stephen" }
     ]
   }
 ]
