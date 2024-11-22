@@ -256,6 +256,43 @@
           "role": "Stephen"
         }
       ]
+    },
+    {
+      "id": 6,
+      "title": "Death Proof",
+      "year": 2007,
+      "duration": 113,
+      "budget": 30,
+      "poster": "/posters/death_proof.jpg",
+      "quote": "Because I'm the guy who does his job. You must be the other guy.",
+      "description": "Death Proof is a high-octane thriller about a stuntman who uses his modified car as a deadly weapon, clashing with a group of fearless women.",
+      "actors": [
+        {
+          "id": 28,
+          "name": "Kurt Russell",
+          "role": "Stuntman Mike"
+        },
+        {
+          "id": 29,
+          "name": "Zoë Bell",
+          "role": "Zoë"
+        },
+        {
+          "id": 30,
+          "name": "Rosario Dawson",
+          "role": "Abernathy"
+        },
+        {
+          "id": 31,
+          "name": "Tracie Thoms",
+          "role": "Kim"
+        },
+        {
+          "id": 32,
+          "name": "Sydney Tamiia Poitier",
+          "role": "Jungle Julia"
+        }
+      ]
     }
   ]
 }
