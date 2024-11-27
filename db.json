@@ -14,31 +14,89 @@
           "id": 1,
           "name": "Harvey Keitel",
           "role": "Mr White",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harvey_Keitel_Cannes_2015.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harvey_Keitel_Cannes_2015.jpg",
+          "net_worth": "45000000",
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "film_producer", "voice_actor"],
+          "height": 1.71,
+          "birthday": "1939-05-13",
+          "age": 85
         },
         {
           "id": 2,
           "name": "Tim Roth",
           "role": "Mr Orange",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tim_Roth_Cannes_2014.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tim_Roth_Cannes_2014.jpg",
+          "net_worth": 7000000,
+          "gender": "male",
+          "nationality": "gb",
+          "occupation": ["actor", "television_producer", "film_director"],
+          "height": 1.7,
+          "birthday": "1961-05-14",
+          "age": 63
         },
         {
           "id": 3,
           "name": "Michael Madsen",
           "role": "Mr Blonde",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Madsen_by_Gage_Skidmore.jpg/640px-Michael_Madsen_by_Gage_Skidmore.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Madsen_by_Gage_Skidmore.jpg/640px-Michael_Madsen_by_Gage_Skidmore.jpg",
+          "net_worth": 10000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "film_producer",
+            "poet",
+            "photographer",
+            "writer",
+            "voice_actor"
+          ],
+          "height": 1.88,
+          "birthday": "1958-09-25",
+          "age": 66
         },
         {
           "id": 4,
           "name": "Steve Buscemi",
           "role": "Mr Pink",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Steve_Buscemi_crop.jpg/640px-Steve_Buscemi_crop.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Steve_Buscemi_crop.jpg/640px-Steve_Buscemi_crop.jpg",
+          "net_worth": 35000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "film_producer",
+            "television_director",
+            "film_director",
+            "screenwriter",
+            "voice_actor",
+            "firefighter"
+          ],
+          "height": 1.75,
+          "birthday": "1957-12-13",
+          "age": 66
         },
         {
           "id": 5,
           "name": "Quentin Tarantino",
           "role": "Mr Brown",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/640px-Quentin_Tarantino_by_Gage_Skidmore.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/640px-Quentin_Tarantino_by_Gage_Skidmore.jpg",
+          "net_worth": 120000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "screenwriter",
+            "film_director",
+            "actor",
+            "film_producer",
+            "writer",
+            "television_director",
+            "voice_actor"
+          ],
+          "height": 1.85,
+          "birthday": "1963-03-27",
+          "age": 61
         }
       ]
     },
@@ -56,49 +114,135 @@
           "id": 6,
           "name": "John Travolta",
           "role": "Vincent Vega",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Travolta_Cannes_2018_%28cropped%29.jpg/640px-John_Travolta_Cannes_2018_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Travolta_Cannes_2018_%28cropped%29.jpg/640px-John_Travolta_Cannes_2018_%28cropped%29.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "singer",
+            "dancer",
+            "voice_actor",
+            "film_producer"
+          ],
+          "height": 1.88,
+          "birthday": "1954-02-18",
+          "age": 70
         },
         {
           "id": 7,
           "name": "Samuel L. Jackson",
           "role": "Jules Winnfield",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "voice_actor", "film_producer"],
+          "height": 1.88,
+          "birthday": "1948-12-21",
+          "age": 75
         },
         {
           "id": 8,
           "name": "Bruce Willis",
           "role": "Butch Coolidge",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/640px-Bruce_Willis_by_Gage_Skidmore_3.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/640px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "film_producer",
+            "television_producer",
+            "businessperson",
+            "voice_actor",
+            "singer",
+            "musician",
+            "writer",
+            "composer"
+          ],
+          "height": 1.83,
+          "birthday": "1955-03-19",
+          "age": 69
         },
         {
           "id": 9,
           "name": "Uma Thurman",
           "role": "Mia Wallace",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uma_Thurman_2014_%28cropped%29.jpg/640px-Uma_Thurman_2014_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uma_Thurman_2014_%28cropped%29.jpg/640px-Uma_Thurman_2014_%28cropped%29.jpg",
+          "net_worth": 45000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "model",
+            "film_producer",
+            "screenwriter",
+            "television_producer"
+          ],
+          "height": 1.81,
+          "birthday": "1970-04-29",
+          "age": 54
         },
         {
           "id": 10,
           "name": "Ving Rhames",
           "role": "Marsellus Wallace",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ving_Rhames_2010_%284710601891%29_%28cropped%29.jpg/640px-Ving_Rhames_2010_%284710601891%29_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ving_Rhames_2010_%284710601891%29_%28cropped%29.jpg/640px-Ving_Rhames_2010_%284710601891%29_%28cropped%29.jpg",
+          "net_worth": 25000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "voice_actor"],
+          "height": 1.83,
+          "birthday": "1959-05-12",
+          "age": 65
         },
         {
           "id": 2,
           "name": "Tim Roth",
           "role": "Pumpkin / Ringo",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tim_Roth_Cannes_2014.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tim_Roth_Cannes_2014.jpg",
+          "net_worth": 7000000,
+          "gender": "male",
+          "nationality": "uk",
+          "occupation": ["actor", "director"],
+          "height": 1.7,
+          "birthday": "1961-05-14",
+          "age": 63
         },
         {
           "id": 1,
           "name": "Harvey Keitel",
           "role": "Winston Wolfe",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harvey_Keitel_Cannes_2015.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harvey_Keitel_Cannes_2015.jpg",
+          "net_worth": 45000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "film_producer"],
+          "height": 1.71,
+          "birthday": "1939-05-13",
+          "age": 85
         },
         {
           "id": 5,
           "name": "Quentin Tarantino",
           "role": "Jimmie Dimmick",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/640px-Quentin_Tarantino_by_Gage_Skidmore.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/640px-Quentin_Tarantino_by_Gage_Skidmore.jpg",
+          "net_worth": 120000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": [
+            "screenwriter",
+            "film_director",
+            "actor",
+            "film_producer",
+            "writer",
+            "television_director",
+            "voice_actor"
+          ],
+          "height": 1.85,
+          "birthday": "1963-03-27",
+          "age": 61
         }
       ]
     },
@@ -116,37 +260,79 @@
           "id": 11,
           "name": "Pam Grier",
           "role": "Jackie Brown",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pam_Grier_%282022%29_%28cropped%29.jpg/640px-Pam_Grier_%282022%29_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pam_Grier_%282022%29_%28cropped%29.jpg/640px-Pam_Grier_%282022%29_%28cropped%29.jpg",
+          "net_worth": 10000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.73,
+          "birthday": "1949-05-26",
+          "age": 75
         },
         {
           "id": 7,
           "name": "Samuel L. Jackson",
           "role": "Ordell Robbie",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "voice_actor", "film_producer"],
+          "height": 1.88,
+          "birthday": "1948-12-21",
+          "age": 75
         },
         {
           "id": 12,
           "name": "Robert Forster",
           "role": "Max Cherry",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Robert_Forster_2009.jpg/640px-Robert_Forster_2009.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Robert_Forster_2009.jpg/640px-Robert_Forster_2009.jpg",
+          "net_worth": 3000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.77,
+          "birthday": "1941-07-13",
+          "age": "78, deceased"
         },
         {
           "id": 13,
           "name": "Bridget Fonda",
           "role": "Melanie Ralston",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridget_Fonda.jpg/640px-Bridget_Fonda.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridget_Fonda.jpg/640px-Bridget_Fonda.jpg",
+          "net_worth": 50000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.68,
+          "birthday": "1964-01-27",
+          "age": 60
         },
         {
           "id": 14,
           "name": "Michael Keaton",
           "role": "Ray Nicolette",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Michael_Keaton-63916_%28cropped%29.jpg/640px-Michael_Keaton-63916_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Michael_Keaton-63916_%28cropped%29.jpg/640px-Michael_Keaton-63916_%28cropped%29.jpg",
+          "net_worth": 40000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "producer", "director"],
+          "height": 1.75,
+          "birthday": "1951-09-05",
+          "age": 73
         },
         {
           "id": 0,
           "name": "Robert De Niro",
           "role": "Louis Gara",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Robert_De_Niro_KVIFF_portrait.jpg/640px-Robert_De_Niro_KVIFF_portrait.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Robert_De_Niro_KVIFF_portrait.jpg/640px-Robert_De_Niro_KVIFF_portrait.jpg",
+          "net_worth": 500000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "producer", "director"],
+          "height": 1.77,
+          "birthday": "1943-08-17",
+          "age": 81
         }
       ]
     },
@@ -164,43 +350,98 @@
           "id": 9,
           "name": "Uma Thurman",
           "role": "The Bride",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uma_Thurman_2014_%28cropped%29.jpg/640px-Uma_Thurman_2014_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uma_Thurman_2014_%28cropped%29.jpg/640px-Uma_Thurman_2014_%28cropped%29.jpg",
+          "net_worth": 45000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": [
+            "actor",
+            "model",
+            "film_producer",
+            "screenwriter",
+            "television_producer"
+          ],
+          "height": 1.81,
+          "birthday": "1970-04-29",
+          "age": 54
         },
         {
           "id": 15,
           "name": "David Carradine",
           "role": "Bill",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/David_Carradine_Polanski_Unauthorized.jpg/640px-David_Carradine_Polanski_Unauthorized.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/David_Carradine_Polanski_Unauthorized.jpg/640px-David_Carradine_Polanski_Unauthorized.jpg",
+          "net_worth": 500000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "martial_artist"],
+          "height": 1.83,
+          "birthday": "1936-12-08",
+          "age": "72, deceased"
         },
         {
           "id": 3,
           "name": "Michael Madsen",
           "role": "Budd",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Madsen_by_Gage_Skidmore.jpg/640px-Michael_Madsen_by_Gage_Skidmore.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Madsen_by_Gage_Skidmore.jpg/640px-Michael_Madsen_by_Gage_Skidmore.jpg",
+          "net_worth": 10000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "poet", "photographer"],
+          "height": 1.88,
+          "birthday": "1957-09-25",
+          "age": 67
         },
         {
           "id": 16,
           "name": "Lucy Liu",
           "role": "O-Ren Ishii",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lucy_Liu%2C_2011_%28cropped%29.jpg/640px-Lucy_Liu%2C_2011_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Lucy_Liu%2C_2011_%28cropped%29.jpg/640px-Lucy_Liu%2C_2011_%28cropped%29.jpg",
+          "net_worth": 16000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress", "artist"],
+          "height": 1.6,
+          "birthday": "1968-12-02",
+          "age": 55
         },
         {
           "id": 17,
           "name": "Vivica A. Fox",
           "role": "Vernita Green",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vivica_A._Fox_2015.jpg/640px-Vivica_A._Fox_2015.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Vivica_A._Fox_2015.jpg/640px-Vivica_A._Fox_2015.jpg",
+          "net_worth": 4000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress", "producer"],
+          "height": 1.75,
+          "birthday": "1964-07-30",
+          "age": 60
         },
         {
           "id": 18,
           "name": "Daryl Hannah",
           "role": "Elle Driver",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Daryl_Hannah%2C_2013_%28cropped%29.jpg/640px-Daryl_Hannah%2C_2013_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Daryl_Hannah%2C_2013_%28cropped%29.jpg/640px-Daryl_Hannah%2C_2013_%28cropped%29.jpg",
+          "net_worth": 20000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.78,
+          "birthday": "1960-12-03",
+          "age": 63
         },
         {
           "id": 7,
           "name": "Samuel L. Jackson",
           "role": "Rufus",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "voice_actor", "film_producer"],
+          "height": 1.88,
+          "birthday": "1948-12-21",
+          "age": 75
         }
       ]
     },
@@ -218,37 +459,79 @@
           "id": 19,
           "name": "Brad Pitt",
           "role": "Lt. Aldo Raine",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/640px-Brad_Pitt-69858.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/640px-Brad_Pitt-69858.jpg",
+          "net_worth": 400000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "producer"],
+          "height": 1.8,
+          "birthday": "1963-12-18",
+          "age": 60
         },
         {
           "id": 20,
           "name": "Mélanie Laurent",
           "role": "Shosanna",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/M%C3%A9lanie_Laurent%2C_2016_%28cropped%29.jpg/640px-M%C3%A9lanie_Laurent%2C_2016_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/M%C3%A9lanie_Laurent%2C_2016_%28cropped%29.jpg/640px-M%C3%A9lanie_Laurent%2C_2016_%28cropped%29.jpg",
+          "net_worth": 8000000,
+          "gender": "female",
+          "nationality": "fr",
+          "occupation": ["actress", "director", "singer"],
+          "height": 1.57,
+          "birthday": "1983-02-21",
+          "age": 41
         },
         {
           "id": 21,
           "name": "Christoph Waltz",
           "role": "Col. Hans Landa",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg/640px-Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg/640px-Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg",
+          "net_worth": 30000000,
+          "gender": "male",
+          "nationality": "at",
+          "occupation": ["actor"],
+          "height": 1.7,
+          "birthday": "1956-10-04",
+          "age": 68
         },
         {
           "id": 22,
           "name": "Eli Roth",
           "role": "Sgt. Donny Donowitz",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eli_Roth_%40_2010_Academy_Awards.jpg/640px-Eli_Roth_%40_2010_Academy_Awards.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Eli_Roth_%40_2010_Academy_Awards.jpg/640px-Eli_Roth_%40_2010_Academy_Awards.jpg",
+          "net_worth": 20000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "director", "producer"],
+          "height": 1.83,
+          "birthday": "1972-04-18",
+          "age": 52
         },
         {
           "id": 23,
           "name": "Michael Fassbender",
           "role": "Lt. Archie Hicox",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Michael_Fassbender_by_Gage_Skidmore_2015.jpg/640px-Michael_Fassbender_by_Gage_Skidmore_2015.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Michael_Fassbender_by_Gage_Skidmore_2015.jpg/640px-Michael_Fassbender_by_Gage_Skidmore_2015.jpg",
+          "net_worth": 40000000,
+          "gender": "male",
+          "nationality": "de",
+          "occupation": ["actor"],
+          "height": 1.83,
+          "birthday": "1977-04-02",
+          "age": 47
         },
         {
           "id": 24,
           "name": "Diane Kruger",
           "role": "Bridget von Hammersmark",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Diane_Kruger-5300_%28cropped%29.jpg/640px-Diane_Kruger-5300_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Diane_Kruger-5300_%28cropped%29.jpg/640px-Diane_Kruger-5300_%28cropped%29.jpg",
+          "net_worth": 24000000,
+          "gender": "female",
+          "nationality": "de",
+          "occupation": ["actress"],
+          "height": 1.7,
+          "birthday": "1976-07-15",
+          "age": 48
         }
       ]
     },
@@ -266,31 +549,66 @@
           "id": 25,
           "name": "Jamie Foxx",
           "role": "Django",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TIFF_2019_jamie_foxx_%28cropped%29.jpg/640px-TIFF_2019_jamie_foxx_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/TIFF_2019_jamie_foxx_%28cropped%29.jpg/640px-TIFF_2019_jamie_foxx_%28cropped%29.jpg",
+          "net_worth": 170000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "singer", "producer"],
+          "height": 1.75,
+          "birthday": "1967-12-13",
+          "age": 56
         },
         {
           "id": 21,
           "name": "Christoph Waltz",
           "role": "Dr. King Schultz",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg/640px-Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg/640px-Christoph_Waltz_Viennale_2017_f_%28cropped%29.jpg",
+          "net_worth": 30000000,
+          "gender": "male",
+          "nationality": "at",
+          "occupation": ["actor"],
+          "height": 1.7,
+          "birthday": "1956-10-04",
+          "age": 68
         },
         {
           "id": 26,
           "name": "Leonardo DiCaprio",
           "role": "Calvin Candie",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/640px-Leonardo_Dicaprio_Cannes_2019.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/640px-Leonardo_Dicaprio_Cannes_2019.jpg",
+          "net_worth": 300000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "producer"],
+          "height": 1.83,
+          "birthday": "1974-11-11",
+          "age": 50
         },
         {
           "id": 27,
           "name": "Kerry Washington",
           "role": "Broomhilda von Schaft",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kerry_Washington%2C_Deliver_Commencement_Address_GWU_%288755052944%29_%28cropped%29_%28cropped%29.jpg/640px-Kerry_Washington%2C_Deliver_Commencement_Address_GWU_%288755052944%29_%28cropped%29_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kerry_Washington%2C_Deliver_Commencement_Address_GWU_%288755052944%29_%28cropped%29_%28cropped%29.jpg/640px-Kerry_Washington%2C_Deliver_Commencement_Address_GWU_%288755052944%29_%28cropped%29_%28cropped%29.jpg",
+          "net_worth": 50000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress", "producer"],
+          "height": 1.63,
+          "birthday": "1977-01-31",
+          "age": 47
         },
         {
           "id": 7,
           "name": "Samuel L. Jackson",
           "role": "Stephen",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor", "voice_actor", "film_producer"],
+          "height": 1.88,
+          "birthday": "1948-12-21",
+          "age": 75
         }
       ]
     },
@@ -308,31 +626,66 @@
           "id": 28,
           "name": "Kurt Russell",
           "role": "Stuntman Mike",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kurt_Russell_by_Gage_Skidmore_2.jpg/640px-Kurt_Russell_by_Gage_Skidmore_2.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kurt_Russell_by_Gage_Skidmore_2.jpg/640px-Kurt_Russell_by_Gage_Skidmore_2.jpg",
+          "net_worth": 100000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.8,
+          "birthday": "1951-03-17",
+          "age": 73
         },
         {
           "id": 29,
           "name": "Zoë Bell",
           "role": "Zoë",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zoe_Bell_2019_by_Glenn_Francis_%28cropped%29.jpg/640px-Zoe_Bell_2019_by_Glenn_Francis_%28cropped%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Zoe_Bell_2019_by_Glenn_Francis_%28cropped%29.jpg/640px-Zoe_Bell_2019_by_Glenn_Francis_%28cropped%29.jpg",
+          "net_worth": 2000000,
+          "gender": "female",
+          "nationality": "nz",
+          "occupation": ["actress", "stuntwoman"],
+          "height": 1.73,
+          "birthday": "1978-11-17",
+          "age": 46
         },
         {
           "id": 30,
           "name": "Rosario Dawson",
           "role": "Abernathy",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rosario_Dawson_%2852549531671%29.jpg/640px-Rosario_Dawson_%2852549531671%29.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Rosario_Dawson_%2852549531671%29.jpg/640px-Rosario_Dawson_%2852549531671%29.jpg",
+          "net_worth": 8000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress", "producer"],
+          "height": 1.7,
+          "birthday": "1979-05-09",
+          "age": 45
         },
         {
           "id": 31,
           "name": "Tracie Thoms",
           "role": "Kim",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tracie_Thoms.jpg/640px-Tracie_Thoms.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Tracie_Thoms.jpg/640px-Tracie_Thoms.jpg",
+          "net_worth": 1000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.64,
+          "birthday": "1975-08-19",
+          "age": 49
         },
         {
           "id": 32,
           "name": "Sydney Tamiia Poitier",
           "role": "Jungle Julia",
-          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sydney_Tamiia_Poitier.jpg/640px-Sydney_Tamiia_Poitier.jpg"
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sydney_Tamiia_Poitier.jpg/640px-Sydney_Tamiia_Poitier.jpg",
+          "net_worth": 5000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.8,
+          "birthday": "1973-11-15",
+          "age": 51
         }
       ]
     }
