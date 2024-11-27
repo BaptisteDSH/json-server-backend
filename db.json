@@ -688,6 +688,263 @@
           "age": 51
         }
       ]
+    },
+    {
+      "id": 7,
+      "title": "Kill Bill: Volume 2",
+      "year": 2004,
+      "duration": 137,
+      "budget": 30,
+      "poster": "kill_bill_vol_2.jpg",
+      "quote": "It's mercy, compassion and forgiveness I lack. Not rationality.",
+      "description": "Suite de la saga de vengeance de la Mariée. Ce volume 2 termine l'histoire de la recherche de vengeance contre les membres de l'escouade Deadly Viper.",
+      "actors": [
+        {
+          "id": 9,
+          "name": "Uma Thurman",
+          "role": "The Bride",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Uma_Thurman_2014_%28cropped%29.jpg/640px-Uma_Thurman_2014_%28cropped%29.jpg",
+          "net_worth": 45000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.8,
+          "birthday": "1970-04-29",
+          "age": 54
+        },
+        {
+          "id": 3,
+          "name": "Michael Madsen",
+          "role": "Budd",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michael_Madsen_by_Gage_Skidmore.jpg/640px-Michael_Madsen_by_Gage_Skidmore.jpg",
+          "net_worth": 5000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.83,
+          "birthday": "1958-09-25",
+          "age": 66
+        },
+        {
+          "id": 7,
+          "name": "Samuel L. Jackson",
+          "role": "Stephen",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SamuelLJackson.jpg/640px-SamuelLJackson.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.92,
+          "birthday": "1948-12-21",
+          "age": 75
+        },
+        {
+          "id": 8,
+          "name": "Bruce Willis",
+          "role": "Bill",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/640px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
+          "net_worth": 180000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.83,
+          "birthday": "1955-03-19",
+          "age": 69
+        },
+        {
+          "id": 4,
+          "name": "Steve Buscemi",
+          "role": "Mr. Pink",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Steve_Buscemi_crop.jpg/640px-Steve_Buscemi_crop.jpg",
+          "net_worth": 35000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.7,
+          "birthday": "1958-12-13",
+          "age": 65
+        },
+        {
+          "id": 11,
+          "name": "Pam Grier",
+          "role": "Jackie Brown",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Pam_Grier_%282022%29_%28cropped%29.jpg/640px-Pam_Grier_%282022%29_%28cropped%29.jpg",
+          "net_worth": 20000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.7,
+          "birthday": "1949-05-26",
+          "age": 75
+        },
+        {
+          "id": 12,
+          "name": "Robert Forster",
+          "role": "Max Cherry",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Robert_Forster_2009.jpg/640px-Robert_Forster_2009.jpg",
+          "net_worth": 10000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.8,
+          "birthday": "1941-07-13",
+          "age": 83
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Hateful Eight",
+      "year": 2015,
+      "duration": 168,
+      "budget": 44,
+      "poster": "the_hateful_eight.jpg",
+      "quote": "If you don't respect my authoritah, you're gonna find out what happens.",
+      "description": "Un film de western se déroulant dans une cabane, où huit inconnus sont piégés ensemble et où des secrets dangereux surgissent.",
+      "actors": [
+        {
+          "id": 1,
+          "name": "Harvey Keitel",
+          "role": "The General",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Harvey_Keitel_Cannes_2015.jpg",
+          "net_worth": 45000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.75,
+          "birthday": "1939-05-13",
+          "age": 85
+        },
+        {
+          "id": 6,
+          "name": "John Travolta",
+          "role": "Jody",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/John_Travolta_Cannes_2018_%28cropped%29.jpg/640px-John_Travolta_Cannes_2018_%28cropped%29.jpg",
+          "net_worth": 250000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.88,
+          "birthday": "1954-02-18",
+          "age": 70
+        },
+        {
+          "id": 2,
+          "name": "Tim Roth",
+          "role": "Oswaldo Mobray",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/7/75/Tim_Roth_Cannes_2014.jpg",
+          "net_worth": 80000000,
+          "gender": "male",
+          "nationality": "uk",
+          "occupation": ["actor"],
+          "height": 1.73,
+          "birthday": "1961-05-14",
+          "age": 63
+        },
+        {
+          "id": 5,
+          "name": "Quentin Tarantino",
+          "role": "Director",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg/640px-Quentin_Tarantino_by_Gage_Skidmore.jpg",
+          "net_worth": 120000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["director"],
+          "height": 1.85,
+          "birthday": "1963-03-27",
+          "age": 61
+        },
+        {
+          "id": 13,
+          "name": "Bridget Fonda",
+          "role": "Daisy Domergue",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bridget_Fonda.jpg/640px-Bridget_Fonda.jpg",
+          "net_worth": 20000000,
+          "gender": "female",
+          "nationality": "us",
+          "occupation": ["actress"],
+          "height": 1.63,
+          "birthday": "1964-01-27",
+          "age": 60
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Once Upon a Time in Hollywood",
+      "year": 2019,
+      "duration": 161,
+      "budget": 90,
+      "poster": "once_upon_a_time_in_hollywood.jpg",
+      "quote": "In this town, it can all change, like that.",
+      "description": "Un film nostalgique sur Hollywood à la fin des années 60, avec un acteur déclinant et son cascadeur, dans un contexte parallèle au meurtre de Sharon Tate par la famille Manson.",
+      "actors": [
+        {
+          "id": 19,
+          "name": "Leonardo DiCaprio",
+          "role": "Rick Dalton",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/640px-Leonardo_Dicaprio_Cannes_2019.jpg",
+          "net_worth": 260000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.83,
+          "birthday": "1974-11-11",
+          "age": 49
+        },
+        {
+          "id": 16,
+          "name": "Brad Pitt",
+          "role": "Cliff Booth",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/640px-Brad_Pitt-69858.jpg",
+          "net_worth": 300000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.8,
+          "birthday": "1963-12-18",
+          "age": 60
+        },
+        {
+          "id": 18,
+          "name": "Margot Robbie",
+          "role": "Sharon Tate",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Margot_Robbie_at_Somerset_House_in_2013_%28cropped%29.jpg/640px-Margot_Robbie_at_Somerset_House_in_2013_%28cropped%29.jpg",
+          "net_worth": 25000000,
+          "gender": "female",
+          "nationality": "au",
+          "occupation": ["actress"],
+          "height": 1.68,
+          "birthday": "1990-07-02",
+          "age": 34
+        },
+        {
+          "id": 15,
+          "name": "Al Pacino",
+          "role": "Marvin Shwarz",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/640px-Al_Pacino_2016_%2830401544240%29.jpg",
+          "net_worth": 120000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.77,
+          "birthday": "1940-04-25",
+          "age": 84
+        },
+        {
+          "id": 17,
+          "name": "Kurt Russell",
+          "role": "George Spahn",
+          "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kurt_Russell_by_Gage_Skidmore_2.jpg/640px-Kurt_Russell_by_Gage_Skidmore_2.jpg",
+          "net_worth": 100000000,
+          "gender": "male",
+          "nationality": "us",
+          "occupation": ["actor"],
+          "height": 1.8,
+          "birthday": "1951-03-17",
+          "age": 73
+        }
+      ]
     }
   ]
 }
