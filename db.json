@@ -697,7 +697,7 @@
       "budget": 30,
       "poster": "kill_bill_vol_2.jpg",
       "quote": "It's mercy, compassion and forgiveness I lack. Not rationality.",
-      "description": "Suite de la saga de vengeance de la Mariée. Ce volume 2 termine l'histoire de la recherche de vengeance contre les membres de l'escouade Deadly Viper.",
+      "description": "Continuation of the Bride's revenge saga. This Volume 2 concludes the story of her quest for vengeance against the members of the Deadly Viper Assassination Squad.",
       "actors": [
         {
           "id": 9,
@@ -800,7 +800,7 @@
       "budget": 44,
       "poster": "the_hateful_eight.jpg",
       "quote": "If you don't respect my authoritah, you're gonna find out what happens.",
-      "description": "Un film de western se déroulant dans une cabane, où huit inconnus sont piégés ensemble et où des secrets dangereux surgissent.",
+      "description": "A Western film set in a cabin where eight strangers are trapped together, and dangerous secrets emerge.",
       "actors": [
         {
           "id": 1,
@@ -877,10 +877,10 @@
       "budget": 90,
       "poster": "once_upon_a_time_in_hollywood.jpg",
       "quote": "In this town, it can all change, like that.",
-      "description": "Un film nostalgique sur Hollywood à la fin des années 60, avec un acteur déclinant et son cascadeur, dans un contexte parallèle au meurtre de Sharon Tate par la famille Manson.",
+      "description": "A nostalgic film about Hollywood in the late 1960s, featuring a fading actor and his stunt double, set against the backdrop of the Sharon Tate murder by the Manson family.",
       "actors": [
         {
-          "id": 19,
+          "id": 26,
           "name": "Leonardo DiCaprio",
           "role": "Rick Dalton",
           "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Leonardo_Dicaprio_Cannes_2019.jpg/640px-Leonardo_Dicaprio_Cannes_2019.jpg",
@@ -893,7 +893,7 @@
           "age": 49
         },
         {
-          "id": 16,
+          "id": 19,
           "name": "Brad Pitt",
           "role": "Cliff Booth",
           "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brad_Pitt-69858.jpg/640px-Brad_Pitt-69858.jpg",
@@ -906,7 +906,7 @@
           "age": 60
         },
         {
-          "id": 18,
+          "id": 32,
           "name": "Margot Robbie",
           "role": "Sharon Tate",
           "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Margot_Robbie_at_Somerset_House_in_2013_%28cropped%29.jpg/640px-Margot_Robbie_at_Somerset_House_in_2013_%28cropped%29.jpg",
@@ -919,7 +919,7 @@
           "age": 34
         },
         {
-          "id": 15,
+          "id": 33,
           "name": "Al Pacino",
           "role": "Marvin Shwarz",
           "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Al_Pacino_2016_%2830401544240%29.jpg/640px-Al_Pacino_2016_%2830401544240%29.jpg",
@@ -932,7 +932,7 @@
           "age": 84
         },
         {
-          "id": 17,
+          "id": 28,
           "name": "Kurt Russell",
           "role": "George Spahn",
           "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Kurt_Russell_by_Gage_Skidmore_2.jpg/640px-Kurt_Russell_by_Gage_Skidmore_2.jpg",
