@@ -2,7 +2,7 @@
   "movies": [
     {
       "id": 0,
-      "title": "Reservoir Dogs",
+      "title": "https://m.media-amazon.com/images/I/71stMXoTBfL.jpg",
       "year": 1992,
       "duration": 99,
       "budget": 1.2,
@@ -18,11 +18,7 @@
           "net_worth": "45000000",
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "film_producer",
-            "voice_actor"
-          ],
+          "occupation": ["actor", "film_producer", "voice_actor"],
           "height": 1.71,
           "birthday": "1939-05-13",
           "age": 85
@@ -35,11 +31,7 @@
           "net_worth": 7000000,
           "gender": "male",
           "nationality": "gb",
-          "occupation": [
-            "actor",
-            "television_producer",
-            "film_director"
-          ],
+          "occupation": ["actor", "television_producer", "film_director"],
           "height": 1.7,
           "birthday": "1961-05-14",
           "age": 63
@@ -114,7 +106,7 @@
       "year": 1994,
       "duration": 154,
       "budget": 8.5,
-      "poster": "pulp_fiction.jpg",
+      "poster": "https://static.posters.cz/image/750/1288.jpg",
       "quote": "Say 'what' again. I dare you, I double dare you!",
       "description": "A nonlinear masterpiece, Pulp Fiction weaves interconnecting tales of crime, redemption, and chaos in Tarantino's signature style.",
       "actors": [
@@ -145,11 +137,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "voice_actor",
-            "film_producer"
-          ],
+          "occupation": ["actor", "voice_actor", "film_producer"],
           "height": 1.88,
           "birthday": "1948-12-21",
           "age": 75
@@ -204,10 +192,7 @@
           "net_worth": 25000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "voice_actor"
-          ],
+          "occupation": ["actor", "voice_actor"],
           "height": 1.83,
           "birthday": "1959-05-12",
           "age": 65
@@ -220,10 +205,7 @@
           "net_worth": 7000000,
           "gender": "male",
           "nationality": "uk",
-          "occupation": [
-            "actor",
-            "director"
-          ],
+          "occupation": ["actor", "director"],
           "height": 1.7,
           "birthday": "1961-05-14",
           "age": 63
@@ -236,10 +218,7 @@
           "net_worth": 45000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "film_producer"
-          ],
+          "occupation": ["actor", "film_producer"],
           "height": 1.71,
           "birthday": "1939-05-13",
           "age": 85
@@ -273,7 +252,7 @@
       "year": 1997,
       "duration": 154,
       "budget": 12,
-      "poster": "jackie_brown.jpg",
+      "poster": "https://m.media-amazon.com/images/I/61xE5GM-KvL._AC_UF1000,1000_QL80_.jpg",
       "quote": "You can't trust Melanie, but you can always trust Melanie to be Melanie.",
       "description": "A slick crime drama with a retro vibe, Jackie Brown showcases a cunning flight attendant's high-stakes double-cross of gangsters and the law.",
       "actors": [
@@ -285,9 +264,7 @@
           "net_worth": 10000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.73,
           "birthday": "1949-05-26",
           "age": 75
@@ -300,11 +277,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "voice_actor",
-            "film_producer"
-          ],
+          "occupation": ["actor", "voice_actor", "film_producer"],
           "height": 1.88,
           "birthday": "1948-12-21",
           "age": 75
@@ -317,9 +290,7 @@
           "net_worth": 3000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.77,
           "birthday": "1941-07-13",
           "age": "78, deceased"
@@ -332,9 +303,7 @@
           "net_worth": 50000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.68,
           "birthday": "1964-01-27",
           "age": 60
@@ -347,11 +316,7 @@
           "net_worth": 40000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "producer",
-            "director"
-          ],
+          "occupation": ["actor", "producer", "director"],
           "height": 1.75,
           "birthday": "1951-09-05",
           "age": 73
@@ -364,11 +329,7 @@
           "net_worth": 500000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "producer",
-            "director"
-          ],
+          "occupation": ["actor", "producer", "director"],
           "height": 1.77,
           "birthday": "1943-08-17",
           "age": 81
@@ -381,7 +342,7 @@
       "year": 2003,
       "duration": 247,
       "budget": 55,
-      "poster": "kill_bill.jpg",
+      "poster": "https://static.posters.cz/image/1300/affiches-et-posters/kill-bill-vol-1-i97652.jpg",
       "quote": "Those who embark on the path of revenge should dig two graves.",
       "description": "A blood-soaked tale of vengeance, Kill Bill follows The Bride on her relentless quest to punish those who wronged her.",
       "actors": [
@@ -412,10 +373,7 @@
           "net_worth": 500000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "martial_artist"
-          ],
+          "occupation": ["actor", "martial_artist"],
           "height": 1.83,
           "birthday": "1936-12-08",
           "age": "72, deceased"
@@ -428,11 +386,7 @@
           "net_worth": 10000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "poet",
-            "photographer"
-          ],
+          "occupation": ["actor", "poet", "photographer"],
           "height": 1.88,
           "birthday": "1957-09-25",
           "age": 67
@@ -445,10 +399,7 @@
           "net_worth": 16000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress",
-            "artist"
-          ],
+          "occupation": ["actress", "artist"],
           "height": 1.6,
           "birthday": "1968-12-02",
           "age": 55
@@ -461,10 +412,7 @@
           "net_worth": 4000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress",
-            "producer"
-          ],
+          "occupation": ["actress", "producer"],
           "height": 1.75,
           "birthday": "1964-07-30",
           "age": 60
@@ -477,9 +425,7 @@
           "net_worth": 20000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.78,
           "birthday": "1960-12-03",
           "age": 63
@@ -492,11 +438,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "voice_actor",
-            "film_producer"
-          ],
+          "occupation": ["actor", "voice_actor", "film_producer"],
           "height": 1.88,
           "birthday": "1948-12-21",
           "age": 75
@@ -509,7 +451,7 @@
       "year": "2009",
       "duration": 153,
       "budget": 70,
-      "poster": "inglourious_basterds.jpg",
+      "poster": "https://m.media-amazon.com/images/I/81kE2tLmmLL.jpg",
       "quote": "Each and every man under my command owes me 100 Nazi scalps!",
       "description": "A thrilling alternate history, Inglourious Basterds delivers a bold and bloody tale of revenge against the Nazi regime.",
       "actors": [
@@ -521,10 +463,7 @@
           "net_worth": 400000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "producer"
-          ],
+          "occupation": ["actor", "producer"],
           "height": 1.8,
           "birthday": "1963-12-18",
           "age": 60
@@ -537,11 +476,7 @@
           "net_worth": 8000000,
           "gender": "female",
           "nationality": "fr",
-          "occupation": [
-            "actress",
-            "director",
-            "singer"
-          ],
+          "occupation": ["actress", "director", "singer"],
           "height": 1.57,
           "birthday": "1983-02-21",
           "age": 41
@@ -554,9 +489,7 @@
           "net_worth": 30000000,
           "gender": "male",
           "nationality": "at",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.7,
           "birthday": "1956-10-04",
           "age": 68
@@ -569,11 +502,7 @@
           "net_worth": 20000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "director",
-            "producer"
-          ],
+          "occupation": ["actor", "director", "producer"],
           "height": 1.83,
           "birthday": "1972-04-18",
           "age": 52
@@ -586,9 +515,7 @@
           "net_worth": 40000000,
           "gender": "male",
           "nationality": "de",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.83,
           "birthday": "1977-04-02",
           "age": 47
@@ -601,9 +528,7 @@
           "net_worth": 24000000,
           "gender": "female",
           "nationality": "de",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.7,
           "birthday": "1976-07-15",
           "age": 48
@@ -616,7 +541,7 @@
       "year": 2012,
       "duration": 165,
       "budget": 100,
-      "poster": "django_unchained.jpg",
+      "poster": "https://images.affiches-et-posters.com//albums/3/4395/medium/4395-affiche-film-tarantino-django-unchained.jpg",
       "quote": "I am the master of my fate, the captain of my soul.",
       "description": "A bold and unflinching tale of vengeance and justice, Django Unchained tells the story of a freed slave on a mission to rescue his wife.",
       "actors": [
@@ -628,11 +553,7 @@
           "net_worth": 170000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "singer",
-            "producer"
-          ],
+          "occupation": ["actor", "singer", "producer"],
           "height": 1.75,
           "birthday": "1967-12-13",
           "age": 56
@@ -645,9 +566,7 @@
           "net_worth": 30000000,
           "gender": "male",
           "nationality": "at",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.7,
           "birthday": "1956-10-04",
           "age": 68
@@ -660,10 +579,7 @@
           "net_worth": 300000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "producer"
-          ],
+          "occupation": ["actor", "producer"],
           "height": 1.83,
           "birthday": "1974-11-11",
           "age": 50
@@ -676,10 +592,7 @@
           "net_worth": 50000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress",
-            "producer"
-          ],
+          "occupation": ["actress", "producer"],
           "height": 1.63,
           "birthday": "1977-01-31",
           "age": 47
@@ -692,11 +605,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor",
-            "voice_actor",
-            "film_producer"
-          ],
+          "occupation": ["actor", "voice_actor", "film_producer"],
           "height": 1.88,
           "birthday": "1948-12-21",
           "age": 75
@@ -709,7 +618,7 @@
       "year": 2007,
       "duration": 113,
       "budget": 30,
-      "poster": "death_proof.jpg",
+      "poster": "https://m.media-amazon.com/images/I/61oMVG3eqnL.jpg",
       "quote": "Because I'm the guy who does his job. You must be the other guy.",
       "description": "Death Proof is a high-octane thriller about a stuntman who uses his modified car as a deadly weapon, clashing with a group of fearless women.",
       "actors": [
@@ -721,9 +630,7 @@
           "net_worth": 100000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.8,
           "birthday": "1951-03-17",
           "age": 73
@@ -736,10 +643,7 @@
           "net_worth": 2000000,
           "gender": "female",
           "nationality": "nz",
-          "occupation": [
-            "actress",
-            "stuntwoman"
-          ],
+          "occupation": ["actress", "stuntwoman"],
           "height": 1.73,
           "birthday": "1978-11-17",
           "age": 46
@@ -752,10 +656,7 @@
           "net_worth": 8000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress",
-            "producer"
-          ],
+          "occupation": ["actress", "producer"],
           "height": 1.7,
           "birthday": "1979-05-09",
           "age": 45
@@ -768,9 +669,7 @@
           "net_worth": 1000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.64,
           "birthday": "1975-08-19",
           "age": 49
@@ -783,9 +682,7 @@
           "net_worth": 5000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.8,
           "birthday": "1973-11-15",
           "age": 51
@@ -798,7 +695,7 @@
       "year": 2004,
       "duration": 137,
       "budget": 30,
-      "poster": "kill_bill_vol_2.jpg",
+      "poster": "https://cdn.posteritati.com/posters/000/000/007/753/kill-bill-vol-2-sm-web.jpg",
       "quote": "It's mercy, compassion and forgiveness I lack. Not rationality.",
       "description": "Continuation of the Bride's revenge saga. This Volume 2 concludes the story of her quest for vengeance against the members of the Deadly Viper Assassination Squad.",
       "actors": [
@@ -810,9 +707,7 @@
           "net_worth": 45000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.8,
           "birthday": "1970-04-29",
           "age": 54
@@ -825,9 +720,7 @@
           "net_worth": 5000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.83,
           "birthday": "1958-09-25",
           "age": 66
@@ -840,9 +733,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.92,
           "birthday": "1948-12-21",
           "age": 75
@@ -855,9 +746,7 @@
           "net_worth": 180000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.83,
           "birthday": "1955-03-19",
           "age": 69
@@ -870,9 +759,7 @@
           "net_worth": 35000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.7,
           "birthday": "1958-12-13",
           "age": 65
@@ -885,9 +772,7 @@
           "net_worth": 20000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.7,
           "birthday": "1949-05-26",
           "age": 75
@@ -900,9 +785,7 @@
           "net_worth": 10000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.8,
           "birthday": "1941-07-13",
           "age": 83
@@ -915,7 +798,7 @@
       "year": 2015,
       "duration": 168,
       "budget": 44,
-      "poster": "the_hateful_eight.jpg",
+      "poster": "https://i.ebayimg.com/00/s/MTYwMFgxMDcz/z/pbMAAOSwdzVXvXRn/$_57.JPG?set_id=8800005007",
       "quote": "If you don't respect my authoritah, you're gonna find out what happens.",
       "description": "A Western film set in a cabin where eight strangers are trapped together, and dangerous secrets emerge.",
       "actors": [
@@ -927,9 +810,7 @@
           "net_worth": 45000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.75,
           "birthday": "1939-05-13",
           "age": 85
@@ -942,9 +823,7 @@
           "net_worth": 250000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.88,
           "birthday": "1954-02-18",
           "age": 70
@@ -957,9 +836,7 @@
           "net_worth": 80000000,
           "gender": "male",
           "nationality": "uk",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.73,
           "birthday": "1961-05-14",
           "age": 63
@@ -972,9 +849,7 @@
           "net_worth": 120000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "director"
-          ],
+          "occupation": ["director"],
           "height": 1.85,
           "birthday": "1963-03-27",
           "age": 61
@@ -987,9 +862,7 @@
           "net_worth": 20000000,
           "gender": "female",
           "nationality": "us",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.63,
           "birthday": "1964-01-27",
           "age": 60
@@ -1002,7 +875,7 @@
       "year": 2019,
       "duration": 161,
       "budget": 90,
-      "poster": "once_upon_a_time_in_hollywood.jpg",
+      "poster": "https://m.media-amazon.com/images/I/51d6dNp54+L.jpg",
       "quote": "In this town, it can all change, like that.",
       "description": "A nostalgic film about Hollywood in the late 1960s, featuring a fading actor and his stunt double, set against the backdrop of the Sharon Tate murder by the Manson family.",
       "actors": [
@@ -1014,9 +887,7 @@
           "net_worth": 260000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.83,
           "birthday": "1974-11-11",
           "age": 49
@@ -1029,9 +900,7 @@
           "net_worth": 300000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.8,
           "birthday": "1963-12-18",
           "age": 60
@@ -1044,9 +913,7 @@
           "net_worth": 25000000,
           "gender": "female",
           "nationality": "au",
-          "occupation": [
-            "actress"
-          ],
+          "occupation": ["actress"],
           "height": 1.68,
           "birthday": "1990-07-02",
           "age": 34
@@ -1059,9 +926,7 @@
           "net_worth": 120000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.77,
           "birthday": "1940-04-25",
           "age": 84
@@ -1074,9 +939,7 @@
           "net_worth": 100000000,
           "gender": "male",
           "nationality": "us",
-          "occupation": [
-            "actor"
-          ],
+          "occupation": ["actor"],
           "height": 1.8,
           "birthday": "1951-03-17",
           "age": 73
@@ -1087,7 +950,7 @@
       "title": "fff",
       "year": "1234",
       "quote": "",
-      "poster": "reservoir_dogs.jpg",
+      "poster": "https://m.media-amazon.com/images/I/51d6dNp54+L.jpg",
       "description": "",
       "actors": [
         {
@@ -1097,9 +960,7 @@
           "birthday": "",
           "age": "",
           "net_worth": "",
-          "occupation": [
-            ""
-          ],
+          "occupation": [""],
           "gender": "",
           "height": "",
           "nationality": "",
