@@ -4,8 +4,6 @@ const jsonServer = require("json-server");
 
 const morgan = require("morgan");
 
-const express = require("express");
-
 //************************** */
 
 //new
@@ -49,12 +47,6 @@ server.use((req, res, next) => {
 });
 
 server.use(router);
-
-// Servir les fichiers statiques depuis le dossier "public/images/posters"
-server.use(
-  "/images/posters",
-  express.static(path.join(__dirname, "public", "images", "posters"))
-);
 
 server.listen(PORT, () => {
   console.log(`JSON Server is running at port...${PORT}`);
